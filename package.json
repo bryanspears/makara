@@ -1,6 +1,6 @@
 {
   "name": "makara",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "i18n support for dust.js templates",
   "main": "index.js",
   "scripts": {
@@ -75,7 +75,7 @@
     "graceful-fs": "~2.0.1"
   },
   "peerDependencies": {
-    "dustjs-linkedin": "~2.0.0",
+    "dustjs-linkedin": "~2.3.3",
     "adaro": "~0.1.4"
   }
 }
